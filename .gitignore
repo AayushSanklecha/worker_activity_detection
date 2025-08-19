@@ -8,7 +8,10 @@ __pycache__/
 *.pywz
 *.pyzw
 *.pyzwz
-*.pyzwzw
 *.pyzwzwz
+
+# Dataset folders
+dataset/Standford40/JPEGImages/
+
 
 
