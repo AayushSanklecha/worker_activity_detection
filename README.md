@@ -11,7 +11,7 @@ It uses motion analysis inside a selected region of interest (ROI) to provide li
 - Idle timer and configurable alert thresholds
 - Live dashboard with activity stats
 - Works with webcam or uploaded videos
-- Lightweight, CPU-friendly (runs in a hackathon environment)
+- Lightweight, CPU-friendly
 
 ---
 
